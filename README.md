@@ -22,4 +22,4 @@ Each of the assignments provided me the code except the kernel. We were required
 - Data-dependent memory access
 
 ## Additional
-You will see a file with my name. This file contains answers to questions prompting me to analyze the code and techniques I utilized. The questions can be found in the questions pdf. They are general equation and conceptual questions that are related to each assignment.
+You will see a file with my name. This file contains answers to questions prompting me to analyze the code and techniques I utilized. They are general equation and conceptual questions that are related to each assignment.
